@@ -1,0 +1,27 @@
+{
+  "name": "wp-category-dropdown-block",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cguntur/wp-category-dropdown-block.git"
+  },
+  "author": "chandrika guntur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cguntur/wp-category-dropdown-block/issues"
+  },
+  "homepage": "https://github.com/cguntur/wp-category-dropdown-block#readme",
+  "devDependencies": {
+    "@wordpress/scripts": "^12.1.1"
+  },
+  "dependencies": {
+    "npm-upgrade": "^2.0.3"
+  }
+}
